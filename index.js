@@ -1,10 +1,10 @@
 
 function handleRenewal() {
-    window.location.href = "/renew.html";
+    window.location.href = "/boyfriendrenewal/renew.html";
 }
 
 function handleUpgrade() {
-    window.location.href = "/upgrade.html";
+    window.location.href = "/boyfriendrenewal/upgrade.html";
 }
 
 function initPage() {

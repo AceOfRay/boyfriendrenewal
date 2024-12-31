@@ -17,7 +17,7 @@ function initPage() {
       });
   
       if (allChecked) {
-        window.location.href = "thankyou.html";
+        window.location.href = "/thankyou.html";
       }
     });
   }

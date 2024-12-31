@@ -1,6 +1,6 @@
 
 function handleRenewal() {
-    window.location.href = "/renewFinalized.html";
+    window.location.href = "/boyfriendrenewal/renewFinalized.html";
 }
 
 function initPage() {
@@ -17,7 +17,7 @@ function initPage() {
       });
   
       if (allChecked) {
-        window.location.href = "/thankyou.html";
+        window.location.href = "/boyfriendrenewal/thankyou.html";
       }
     });
   }

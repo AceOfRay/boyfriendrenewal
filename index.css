@@ -1,0 +1,27 @@
+.pageContainer {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.pageContainer >* {
+    margin:5vh;
+}
+
+.button {
+    padding:1vh;
+    border: 1px solid white;
+    background-color: transparent;
+    margin:1vh;
+}
+
+.navigationContainer {
+    display:flex;
+    flex-direction: column;
+
+}
+
+.header {
+    text-align: center;
+}
